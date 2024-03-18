@@ -1,0 +1,6 @@
+[submodule "raylib-zigf"]
+	path = raylib-zigf
+	url = git@github.com:Not-Nik/raylib-zig.git
+[submodule "raylib-zig"]
+	path = raylib-zig
+	url = git@github.com:Not-Nik/raylib-zig.git
